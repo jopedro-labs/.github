@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or improvement
+about: Suggest a new feature or improvement for finances-lab
 title: "feat: "
 labels: enhancement
 assignees: JoPedro15
@@ -12,7 +12,7 @@ A clear description of the problem this feature would solve. What are you trying
 
 ## Proposed Solution
 
-Describe the solution you'd like. Be as specific as possible.
+Describe the solution you'd like. Be as specific as possible. If relevant, mention which layer it affects (`src/core/`, `src/infra/`, `src/cli/`, etc.).
 
 ## Alternatives Considered
 
@@ -26,4 +26,5 @@ Any other context, mockups, or references that support this request.
 
 **Checklist**
 - [ ] I have searched existing issues and this has not already been requested.
-- [ ] This feature aligns with the project's stated scope and goals.
+- [ ] This feature aligns with the project's stated scope (portfolio tracking, opportunity scoring, reporting).
+- [ ] I have not included any credentials, `finances.db` data, or personal financial data in this request.
