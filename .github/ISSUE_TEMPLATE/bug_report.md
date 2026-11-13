@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a reproducible bug or unexpected behavior in finances-lab
+about: Report a reproducible bug or unexpected behavior in a jopedro-labs project
 title: "fix: "
 labels: bug
 assignees: JoPedro15
@@ -30,7 +30,7 @@ What actually happened. Include error messages, stack traces, or terminal output
 |:-------------------|:------|
 | OS                 |       |
 | Python version     |       |
-| finances-lab version |     |
+| Repository / version  |    |
 | Command / Make target |    |
 
 ## Quality Gate Output
@@ -49,4 +49,4 @@ Any other context, screenshots, or logs that may help diagnose the issue.
 
 **Checklist**
 - [ ] I have searched existing issues and this is not a duplicate.
-- [ ] I have not included any credentials, API keys, `finances.db` data, or personal financial data in this report.
+- [ ] I have not included any credentials, API keys, or personal data in this report.
